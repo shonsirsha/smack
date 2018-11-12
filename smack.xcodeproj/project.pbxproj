@@ -11,10 +11,29 @@
 		B59B36B721980A35002D29E3 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B59B36B621980A35002D29E3 /* SWRevealViewController.m */; };
 		B59B36BC2198495A002D29E3 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B36BB2198495A002D29E3 /* ChatViewController.swift */; };
 		B59B36BE2198496A002D29E3 /* ChannelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B36BD2198496A002D29E3 /* ChannelViewController.swift */; };
+		B59B36C02198916F002D29E3 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B36BF2198916F002D29E3 /* GradientView.swift */; };
 		B5CCCA172197E73700BA216E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CCCA162197E73700BA216E /* AppDelegate.swift */; };
 		B5CCCA1C2197E73700BA216E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5CCCA1A2197E73700BA216E /* Main.storyboard */; };
 		B5CCCA1E2197E73A00BA216E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5CCCA1D2197E73A00BA216E /* Assets.xcassets */; };
 		B5CCCA212197E73A00BA216E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5CCCA1F2197E73A00BA216E /* LaunchScreen.storyboard */; };
+		B5F2C7832199BF4D002AB1FF /* Stawix - SoinSansNeue-ExtraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7712199BF4B002AB1FF /* Stawix - SoinSansNeue-ExtraLightItalic.otf */; };
+		B5F2C7842199BF4D002AB1FF /* Stawix - SoinSansNeue-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7722199BF4B002AB1FF /* Stawix - SoinSansNeue-BoldItalic.otf */; };
+		B5F2C7852199BF4D002AB1FF /* Stawix - SoinSansNeue-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7732199BF4B002AB1FF /* Stawix - SoinSansNeue-HeavyItalic.otf */; };
+		B5F2C7862199BF4D002AB1FF /* Stawix - SoinSansNeue-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7742199BF4C002AB1FF /* Stawix - SoinSansNeue-ExtraLight.otf */; };
+		B5F2C7872199BF4D002AB1FF /* Stawix - SoinSansNeue-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7752199BF4C002AB1FF /* Stawix - SoinSansNeue-BlackItalic.otf */; };
+		B5F2C7882199BF4D002AB1FF /* Stawix - SoinSansNeue-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7762199BF4C002AB1FF /* Stawix - SoinSansNeue-LightItalic.otf */; };
+		B5F2C7892199BF4D002AB1FF /* Stawix - SoinSansNeue-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7772199BF4C002AB1FF /* Stawix - SoinSansNeue-Thin.otf */; };
+		B5F2C78A2199BF4D002AB1FF /* Stawix - SoinSansNeue-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7782199BF4C002AB1FF /* Stawix - SoinSansNeue-Roman.otf */; };
+		B5F2C78B2199BF4D002AB1FF /* Stawix - SoinSansNeue-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7792199BF4C002AB1FF /* Stawix - SoinSansNeue-Medium.otf */; };
+		B5F2C78C2199BF4D002AB1FF /* Stawix - SoinSansNeue-HairlineItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77A2199BF4C002AB1FF /* Stawix - SoinSansNeue-HairlineItalic.otf */; };
+		B5F2C78D2199BF4D002AB1FF /* Stawix - SoinSansNeue-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77B2199BF4C002AB1FF /* Stawix - SoinSansNeue-Italic.otf */; };
+		B5F2C78E2199BF4D002AB1FF /* Stawix - SoinSansNeue-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77C2199BF4C002AB1FF /* Stawix - SoinSansNeue-Bold.otf */; };
+		B5F2C78F2199BF4D002AB1FF /* Stawix - SoinSansNeue-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77D2199BF4C002AB1FF /* Stawix - SoinSansNeue-MediumItalic.otf */; };
+		B5F2C7902199BF4D002AB1FF /* Stawix - SoinSansNeue-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77E2199BF4D002AB1FF /* Stawix - SoinSansNeue-Light.otf */; };
+		B5F2C7912199BF4D002AB1FF /* Stawix - SoinSansNeue-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C77F2199BF4D002AB1FF /* Stawix - SoinSansNeue-Heavy.otf */; };
+		B5F2C7922199BF4D002AB1FF /* Stawix - SoinSansNeue-Hairline.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7802199BF4D002AB1FF /* Stawix - SoinSansNeue-Hairline.otf */; };
+		B5F2C7932199BF4D002AB1FF /* Stawix - SoinSansNeue-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7812199BF4D002AB1FF /* Stawix - SoinSansNeue-ThinItalic.otf */; };
+		B5F2C7942199BF4D002AB1FF /* Stawix - SoinSansNeue-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = B5F2C7822199BF4D002AB1FF /* Stawix - SoinSansNeue-Black.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,12 +45,31 @@
 		B59B36B621980A35002D29E3 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = "Smack Assets/SWReveal/SWRevealViewController.m"; sourceTree = SOURCE_ROOT; };
 		B59B36BB2198495A002D29E3 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		B59B36BD2198496A002D29E3 /* ChannelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelViewController.swift; sourceTree = "<group>"; };
+		B59B36BF2198916F002D29E3 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		B5CCCA132197E73700BA216E /* smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5CCCA162197E73700BA216E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5CCCA1B2197E73700BA216E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B5CCCA1D2197E73A00BA216E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5CCCA202197E73A00BA216E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5CCCA222197E73A00BA216E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5F2C7712199BF4B002AB1FF /* Stawix - SoinSansNeue-ExtraLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-ExtraLightItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7722199BF4B002AB1FF /* Stawix - SoinSansNeue-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-BoldItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7732199BF4B002AB1FF /* Stawix - SoinSansNeue-HeavyItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-HeavyItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7742199BF4C002AB1FF /* Stawix - SoinSansNeue-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-ExtraLight.otf"; sourceTree = "<group>"; };
+		B5F2C7752199BF4C002AB1FF /* Stawix - SoinSansNeue-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-BlackItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7762199BF4C002AB1FF /* Stawix - SoinSansNeue-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-LightItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7772199BF4C002AB1FF /* Stawix - SoinSansNeue-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Thin.otf"; sourceTree = "<group>"; };
+		B5F2C7782199BF4C002AB1FF /* Stawix - SoinSansNeue-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Roman.otf"; sourceTree = "<group>"; };
+		B5F2C7792199BF4C002AB1FF /* Stawix - SoinSansNeue-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Medium.otf"; sourceTree = "<group>"; };
+		B5F2C77A2199BF4C002AB1FF /* Stawix - SoinSansNeue-HairlineItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-HairlineItalic.otf"; sourceTree = "<group>"; };
+		B5F2C77B2199BF4C002AB1FF /* Stawix - SoinSansNeue-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Italic.otf"; sourceTree = "<group>"; };
+		B5F2C77C2199BF4C002AB1FF /* Stawix - SoinSansNeue-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Bold.otf"; sourceTree = "<group>"; };
+		B5F2C77D2199BF4C002AB1FF /* Stawix - SoinSansNeue-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-MediumItalic.otf"; sourceTree = "<group>"; };
+		B5F2C77E2199BF4D002AB1FF /* Stawix - SoinSansNeue-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Light.otf"; sourceTree = "<group>"; };
+		B5F2C77F2199BF4D002AB1FF /* Stawix - SoinSansNeue-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Heavy.otf"; sourceTree = "<group>"; };
+		B5F2C7802199BF4D002AB1FF /* Stawix - SoinSansNeue-Hairline.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Hairline.otf"; sourceTree = "<group>"; };
+		B5F2C7812199BF4D002AB1FF /* Stawix - SoinSansNeue-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-ThinItalic.otf"; sourceTree = "<group>"; };
+		B5F2C7822199BF4D002AB1FF /* Stawix - SoinSansNeue-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stawix - SoinSansNeue-Black.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +130,7 @@
 		B59B36BA21984939002D29E3 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				B59B36BF2198916F002D29E3 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -117,6 +156,7 @@
 		B5CCCA152197E73700BA216E /* smack */ = {
 			isa = PBXGroup;
 			children = (
+				B5F2C7702199BF2E002AB1FF /* font */,
 				B59B36B921984935002D29E3 /* Model */,
 				B59B36BA21984939002D29E3 /* View */,
 				B59B36B82198492D002D29E3 /* Controller */,
@@ -128,6 +168,31 @@
 				B5CCCA222197E73A00BA216E /* Info.plist */,
 			);
 			path = smack;
+			sourceTree = "<group>";
+		};
+		B5F2C7702199BF2E002AB1FF /* font */ = {
+			isa = PBXGroup;
+			children = (
+				B5F2C7822199BF4D002AB1FF /* Stawix - SoinSansNeue-Black.otf */,
+				B5F2C7752199BF4C002AB1FF /* Stawix - SoinSansNeue-BlackItalic.otf */,
+				B5F2C77C2199BF4C002AB1FF /* Stawix - SoinSansNeue-Bold.otf */,
+				B5F2C7722199BF4B002AB1FF /* Stawix - SoinSansNeue-BoldItalic.otf */,
+				B5F2C7742199BF4C002AB1FF /* Stawix - SoinSansNeue-ExtraLight.otf */,
+				B5F2C7712199BF4B002AB1FF /* Stawix - SoinSansNeue-ExtraLightItalic.otf */,
+				B5F2C7802199BF4D002AB1FF /* Stawix - SoinSansNeue-Hairline.otf */,
+				B5F2C77A2199BF4C002AB1FF /* Stawix - SoinSansNeue-HairlineItalic.otf */,
+				B5F2C77F2199BF4D002AB1FF /* Stawix - SoinSansNeue-Heavy.otf */,
+				B5F2C7732199BF4B002AB1FF /* Stawix - SoinSansNeue-HeavyItalic.otf */,
+				B5F2C77B2199BF4C002AB1FF /* Stawix - SoinSansNeue-Italic.otf */,
+				B5F2C77E2199BF4D002AB1FF /* Stawix - SoinSansNeue-Light.otf */,
+				B5F2C7762199BF4C002AB1FF /* Stawix - SoinSansNeue-LightItalic.otf */,
+				B5F2C7792199BF4C002AB1FF /* Stawix - SoinSansNeue-Medium.otf */,
+				B5F2C77D2199BF4C002AB1FF /* Stawix - SoinSansNeue-MediumItalic.otf */,
+				B5F2C7782199BF4C002AB1FF /* Stawix - SoinSansNeue-Roman.otf */,
+				B5F2C7772199BF4C002AB1FF /* Stawix - SoinSansNeue-Thin.otf */,
+				B5F2C7812199BF4D002AB1FF /* Stawix - SoinSansNeue-ThinItalic.otf */,
+			);
+			path = font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,9 +256,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5F2C7832199BF4D002AB1FF /* Stawix - SoinSansNeue-ExtraLightItalic.otf in Resources */,
 				B5CCCA212197E73A00BA216E /* LaunchScreen.storyboard in Resources */,
+				B5F2C78B2199BF4D002AB1FF /* Stawix - SoinSansNeue-Medium.otf in Resources */,
+				B5F2C7882199BF4D002AB1FF /* Stawix - SoinSansNeue-LightItalic.otf in Resources */,
+				B5F2C7912199BF4D002AB1FF /* Stawix - SoinSansNeue-Heavy.otf in Resources */,
+				B5F2C7892199BF4D002AB1FF /* Stawix - SoinSansNeue-Thin.otf in Resources */,
+				B5F2C78A2199BF4D002AB1FF /* Stawix - SoinSansNeue-Roman.otf in Resources */,
+				B5F2C78E2199BF4D002AB1FF /* Stawix - SoinSansNeue-Bold.otf in Resources */,
+				B5F2C7852199BF4D002AB1FF /* Stawix - SoinSansNeue-HeavyItalic.otf in Resources */,
 				B5CCCA1E2197E73A00BA216E /* Assets.xcassets in Resources */,
+				B5F2C78F2199BF4D002AB1FF /* Stawix - SoinSansNeue-MediumItalic.otf in Resources */,
+				B5F2C7902199BF4D002AB1FF /* Stawix - SoinSansNeue-Light.otf in Resources */,
+				B5F2C78D2199BF4D002AB1FF /* Stawix - SoinSansNeue-Italic.otf in Resources */,
+				B5F2C7932199BF4D002AB1FF /* Stawix - SoinSansNeue-ThinItalic.otf in Resources */,
+				B5F2C78C2199BF4D002AB1FF /* Stawix - SoinSansNeue-HairlineItalic.otf in Resources */,
+				B5F2C7872199BF4D002AB1FF /* Stawix - SoinSansNeue-BlackItalic.otf in Resources */,
+				B5F2C7862199BF4D002AB1FF /* Stawix - SoinSansNeue-ExtraLight.otf in Resources */,
+				B5F2C7842199BF4D002AB1FF /* Stawix - SoinSansNeue-BoldItalic.otf in Resources */,
+				B5F2C7942199BF4D002AB1FF /* Stawix - SoinSansNeue-Black.otf in Resources */,
 				B5CCCA1C2197E73700BA216E /* Main.storyboard in Resources */,
+				B5F2C7922199BF4D002AB1FF /* Stawix - SoinSansNeue-Hairline.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +334,7 @@
 			files = (
 				B5CCCA172197E73700BA216E /* AppDelegate.swift in Sources */,
 				B59B36BC2198495A002D29E3 /* ChatViewController.swift in Sources */,
+				B59B36C02198916F002D29E3 /* GradientView.swift in Sources */,
 				B59B36BE2198496A002D29E3 /* ChannelViewController.swift in Sources */,
 				B59B36B721980A35002D29E3 /* SWRevealViewController.m in Sources */,
 			);
