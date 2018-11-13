@@ -15,7 +15,10 @@ class LoginViewController: UIViewController {
 
     }
 
-
+    @IBAction func signUpPressed(_ sender: Any) {
+        performSegue(withIdentifier: TO_CREATE_ACC, sender: nil)
+    }
+    
     @IBAction func closePressed(_ sender: Any) {
         dismiss(animated: true, completion: nil)
     }
